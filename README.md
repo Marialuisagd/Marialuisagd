@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Maria Luísa Garcia
+# 👩🏻‍💻Maria Luísa Garcia
 
-**`Estudante de Engenharia de Produção`**
+**`Estudante de Engenharia de Produção ⚙️`**
 
 Meu nome é Maria, tenho 21 anos e sou natural do Espírito Santo. Concluí o ensino fundamental e médio em escolas particulares do estado e atualmente estou cursando a graduação de Engenharia de Produção no IFES (Instituto Federal do Espírito Santo). Estou no sétimo período da faculdade e uma das minhas paixões é a programação e análise de dados, áreas nas quais estou me aprofundando atualmente.
 
