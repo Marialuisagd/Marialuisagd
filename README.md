@@ -61,6 +61,14 @@ Meu nome é Maria, tenho 21 anos e sou natural do Espírito Santo. Concluí o en
 <br/>
 <br/>
 
+---
+
+### 🎓 Formação
+
+.....
+
+---
+
 ### 📊 Estatísticas
 
 <p>
